@@ -13,7 +13,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@15.0.0/icons/spring.svg" height="50" alt="java logo"  />
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
