@@ -1,10 +1,10 @@
-<h1 align="left">Hello World!!</h1>
+<h1 align="left">Hello World!</h1>
 
 ###
 
-<p align="left">Crio soluções que fazem a diferença. Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de apenas programar.<br><br>Além disso, também atuo com arquitetura de sistemas e gerenciamento de projetos, alinhando tecnologia e estratégia para entregar soluções inovadoras e eficazes.</p>
+<p align="left">Minha curiosidade sobre como funcionam os sistemas me levam ao aprendizado. Busco implementar soluções exatas com necessidades humanas.</p>
 
-###
+### 
 
 <h2 align="left">Linguagens e Tecnologias:</h2>
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
