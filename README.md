@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Minha curiosidade sobre como funcionam os sistemas me levam ao aprendizado. Busco implementar soluções exatas com necessidades humanas.</p>
+<p align="left"></p>
 
 ### 
 
